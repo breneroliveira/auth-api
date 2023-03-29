@@ -23,4 +23,4 @@ sequelize
         console.error(err.message);
     });
 
-    export default sequelize;
+export default sequelize;
