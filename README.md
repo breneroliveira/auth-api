@@ -1,5 +1,5 @@
 # Auth API
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/breneroliveira/auth-api/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/breneroliveira/auth-api/blob/master/LICENCE)
 
 ## Descrição
 API para a autenticação de usuários desenvolvida em Node.js. Segue as principais funcionalidades da aplicação:
