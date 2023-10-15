@@ -5,6 +5,7 @@
 API para a autenticação de usuários desenvolvida em Node.js. Segue as principais funcionalidades da aplicação:
 - Encriptação e <i>salt</i> no <i>hash</i> de senha;
 - Autenticação com JWT;
+- Proteção dos <i>endpoints</i> com <i>middleware</i> de autenticação;
 
 ## Configuração
 O projeto foi desenvolvido com as seguintes tecnologias:
